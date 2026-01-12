@@ -1,3 +1,5 @@
+package Basic;
+
 public class hello {
     //this is comment
     public static void main(String[] args) {
