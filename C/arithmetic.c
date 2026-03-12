@@ -14,4 +14,4 @@ int main() {
     printf("\nMUL = %d",mul);
     printf("\nDIV = %d",div);
     return 0;
-}
+}  
